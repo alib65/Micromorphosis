@@ -1,0 +1,1 @@
+Micromorphosis No. 1 is an electroacoustic audio-visual composition focused on microtonal modulation. Using a custom software architecture, the work maps real-time spatial audio data to 3D topographical models, establishing a direct correspondence where the auditory parameters shape the visual output.
