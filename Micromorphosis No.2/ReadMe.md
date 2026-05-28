@@ -1,1 +1,13 @@
+Micromorphosis No. 2 represents an exploration of algorithmic composition within a microtonal framework, utilizing real-time generative processes and three-dimensional spatial audio design. This work emerges from a lineage of experimental music that questions the conventions of Western tuning systems and challenges traditional compositional structures through computational means.
 
+At its core, this piece operates outside the twelve-tone equal temperament system that has dominated Western music for over three centuries. Instead, it employs microtonal scales—tuning systems that place pitches between the standard notes we encounter in conventional music. By morphing between different microtonal divisions of the octave, the composition creates harmonic spaces that continuously shift and transform, producing sonorities that exist in a liminal space between familiar and foreign musical territories.
+
+The work is constructed through several interconnected technological systems. The primary audio engine is built in SuperCollider, a specialized programming language designed for sound synthesis and digital signal processing. Rather than relying on pre-composed material, the piece employs algorithmic processes to generate its melodic and harmonic content in real-time. Four synthesis layers create the textural foundation: frequency modulation brass instruments, physical modeling-based timpani, and additive synthesis bells. Each layer responds to generative rules that determine pitch, rhythm, amplitude, and timbre evolution.
+
+A critical dimension of this work is its spatial design. Using ambisonics—a format for capturing and reproducing three-dimensional sound fields—every acoustic event is positioned within a virtual spatial environment. Through binaural rendering techniques, listeners experience the illusion of sounds moving through three-dimensional space when using headphones. This approach incorporates principles of acoustic physics, including distance-based frequency attenuation and spatial delay, creating an immersive perceptual experience that extends beyond traditional stereo presentation.
+
+The performance is interactive and responsive. Real-time MIDI control allows the composer to dynamically manipulate generative parameters, effectively conducting the algorithmic system and steering compositional outcomes in the moment. This methodology positions the composer as both architect and interpreter, establishing a dialogue between predetermined algorithmic rules and human agency.
+
+Headphone listening is essential to fully experience the spatial dimensions of this work.
+
+Youtube Link: https://www.youtube.com/watch?v=Sgobh8ArzDw
